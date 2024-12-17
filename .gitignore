@@ -1,0 +1,78 @@
+# ========== Unity Generated Files ==========
+# Logs, Libraries, Temporary, Build Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio Cache
+.vs/
+
+# Mono
+*.pidb.meta
+*.pdb
+
+# Unity Generated Meta Files
+*.unitypackage
+
+# 임시 프리팹 파일만 무시 (정상 프리팹 파일은 포함)
+*.prefab~
+
+# 숨김 파일
+.DS_Store
+
+# 빌드 결과물 무시
+*.apk
+*.aab
+*.app
+*.exe
+*.zip
+
+# 유저 설정 무시
+UserSettings/
+
+# Mixed Reality Toolkit auto-generated files
+*.csproj
+*.sln
+*.vsconfig
+
+# Unity Collaborate / PlasticSCM
+[Uu]nity[Cc]ollab/
+[Uu]nity[Pp]lastic/
+
+# 불필요한 Temp Files
+*.tmp
+*.bak
+*.swp
+*.old
+
+# Logs
+*.log
+
+# ========== 저작권 문제 파일 무시 ==========
+Assets/Bird/
+Assets/CGSoul/
+Assets/Ergin3d/
+Assets/SyntyStudios
+Assets/Green_Worm/
+Assets/Bird.meta
+Assets/CGSoul.meta
+Assets/Ergin3d.meta
+Assets/Green_Worm.meta
+Assets/SyntyStudios.meta
