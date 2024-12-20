@@ -53,8 +53,8 @@ main_project/*.sln
 main_project/*.vsconfig
 
 # Unity Collaborate / PlasticSCM
-main_project/[Uu]nity[Cc]ollab/
-main_project/[Uu]nity[Pp]lastic/
+main_project/Unity/C]ollab/
+main_project/UnityPlastic/
 
 # 불필요한 Temp Files
 main_project/*.tmp
@@ -67,10 +67,6 @@ main_project/*.log
 
 # ========== 저작권 문제 파일 무시 ==========
 main_project/Assets/Bird/
-main_project/Assets/CGSoul/
-main_project/Assets/Ergin3d/
 main_project/Assets/Green_Worm/
 main_project/Assets/Bird.meta
-main_project/Assets/CGSoul.meta
-main_project/Assets/Ergin3d.meta
 main_project/Assets/Green_Worm.meta
