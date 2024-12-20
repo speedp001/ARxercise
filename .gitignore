@@ -1,12 +1,12 @@
 # ========== Unity Generated Files ==========
 # Logs, Libraries, Temporary, Build Files
-main_project/[Ll]ibrary/
-main_project/[Tt]emp/
-main_project/[Oo]bj/
-main_project/[Bb]uild/
-main_project/[Bb]uilds/
-main_project/[Ll]ogs/
-main_project/[Mm]emoryCaptures/
+main_project/Library/
+main_project/Temp/
+main_project/Obj/
+main_project/Build/
+main_project/Builds/
+main_project/Logs/
+main_project/MemoryCaptures/
 
 # Visual Studio / VSCode
 main_project/.vscode/
