@@ -1,72 +1,74 @@
 # ========== Unity Generated Files ==========
 # Logs, Libraries, Temporary, Build Files
-main_project/Library/
-main_project/Temp/
-main_project/Obj/
-main_project/Build/
-main_project/Builds/
-main_project/Logs/
-main_project/MemoryCaptures/
+HoloLens2/[Ll]ibrary/
+HoloLens2/[Tt]emp/
+HoloLens2/[Oo]bj/
+HoloLens2/[Bb]uild/
+HoloLens2/[Bb]uilds/
+HoloLens2/[Ll]ogs/
+HoloLens2/[Mm]emoryCaptures/
 
 # Visual Studio / VSCode
-main_project/.vscode/
-main_project/*.csproj
-main_project/*.unityproj
-main_project/*.sln
-main_project/*.suo
-main_project/*.tmp
-main_project/*.user
-main_project/*.userprefs
-main_project/*.pidb
-main_project/*.booproj
-main_project/*.svd
+HoloLens2/.vscode/
+HoloLens2/*.csproj
+HoloLens2/*.unityproj
+HoloLens2/*.sln
+HoloLens2/*.suo
+HoloLens2/*.tmp
+HoloLens2/*.user
+HoloLens2/*.userprefs
+HoloLens2/*.pidb
+HoloLens2/*.booproj
+HoloLens2/*.svd
 
 # Visual Studio Cache
-main_project/.vs/
+HoloLens2/.vs/
 
 # Mono
-main_project/*.pidb.meta
-main_project/*.pdb
+HoloLens2/*.pidb.meta
+HoloLens2/*.pdb
 
 # Unity Generated Meta Files
-main_project/*.unitypackage
+HoloLens2/*.unitypackage
 
 # 임시 프리팹 파일만 무시 (정상 프리팹 파일은 포함)
-main_project/*.prefab~
+HoloLens2/*.prefab~
 
 # 숨김 파일
-main_project/.DS_Store
+HoloLens2/.DS_Store
 
 # 빌드 결과물 무시
-main_project/*.apk
-main_project/*.aab
-main_project/*.app
-main_project/*.exe
-main_project/*.zip
+HoloLens2/*.apk
+HoloLens2/*.aab
+HoloLens2/*.app
+HoloLens2/*.exe
+HoloLens2/*.zip
 
 # 유저 설정 무시
-main_project/UserSettings/
+HoloLens2/UserSettings/
 
 # Mixed Reality Toolkit auto-generated files
-main_project/*.csproj
-main_project/*.sln
-main_project/*.vsconfig
+HoloLens2/*.csproj
+HoloLens2/*.sln
+HoloLens2/*.vsconfig
 
 # Unity Collaborate / PlasticSCM
-main_project/Unity/C]ollab/
-main_project/UnityPlastic/
+HoloLens2/[Uu]nity[Cc]ollab/
+HoloLens2/[Uu]nity[Pp]lastic/
 
 # 불필요한 Temp Files
-main_project/*.tmp
-main_project/*.bak
-main_project/*.swp
-main_project/*.old
+HoloLens2/*.tmp
+HoloLens2/*.bak
+HoloLens2/*.swp
+HoloLens2/*.old
 
 # Logs
-main_project/*.log
+HoloLens2/*.log
 
 # ========== 저작권 문제 파일 무시 ==========
-main_project/Assets/Bird/
-main_project/Assets/Green_Worm/
-main_project/Assets/Bird.meta
-main_project/Assets/Green_Worm.meta
+HoloLens2/Assets/Bird/
+HoloLens2/Assets/Green_Worm/
+HoloLens2/Assets/SyntyStudios
+HoloLens2/Assets/Bird.meta
+HoloLens2/Assets/Green_Worm.meta
+HoloLens2/Assets/SyntyStudios.meta
