@@ -1,78 +1,76 @@
 # ========== Unity Generated Files ==========
 # Logs, Libraries, Temporary, Build Files
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
+main_project/[Ll]ibrary/
+main_project/[Tt]emp/
+main_project/[Oo]bj/
+main_project/[Bb]uild/
+main_project/[Bb]uilds/
+main_project/[Ll]ogs/
+main_project/[Mm]emoryCaptures/
 
 # Visual Studio / VSCode
-.vscode/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
+main_project/.vscode/
+main_project/*.csproj
+main_project/*.unityproj
+main_project/*.sln
+main_project/*.suo
+main_project/*.tmp
+main_project/*.user
+main_project/*.userprefs
+main_project/*.pidb
+main_project/*.booproj
+main_project/*.svd
 
 # Visual Studio Cache
-.vs/
+main_project/.vs/
 
 # Mono
-*.pidb.meta
-*.pdb
+main_project/*.pidb.meta
+main_project/*.pdb
 
 # Unity Generated Meta Files
-*.unitypackage
+main_project/*.unitypackage
 
 # 임시 프리팹 파일만 무시 (정상 프리팹 파일은 포함)
-*.prefab~
+main_project/*.prefab~
 
 # 숨김 파일
-.DS_Store
+main_project/.DS_Store
 
 # 빌드 결과물 무시
-*.apk
-*.aab
-*.app
-*.exe
-*.zip
+main_project/*.apk
+main_project/*.aab
+main_project/*.app
+main_project/*.exe
+main_project/*.zip
 
 # 유저 설정 무시
-UserSettings/
+main_project/UserSettings/
 
 # Mixed Reality Toolkit auto-generated files
-*.csproj
-*.sln
-*.vsconfig
+main_project/*.csproj
+main_project/*.sln
+main_project/*.vsconfig
 
 # Unity Collaborate / PlasticSCM
-[Uu]nity[Cc]ollab/
-[Uu]nity[Pp]lastic/
+main_project/[Uu]nity[Cc]ollab/
+main_project/[Uu]nity[Pp]lastic/
 
 # 불필요한 Temp Files
-*.tmp
-*.bak
-*.swp
-*.old
+main_project/*.tmp
+main_project/*.bak
+main_project/*.swp
+main_project/*.old
 
 # Logs
-*.log
+main_project/*.log
 
 # ========== 저작권 문제 파일 무시 ==========
-Assets/Bird/
-Assets/CGSoul/
-Assets/Ergin3d/
-Assets/SyntyStudios
-Assets/Green_Worm/
-Assets/Bird.meta
-Assets/CGSoul.meta
-Assets/Ergin3d.meta
-Assets/Green_Worm.meta
-Assets/SyntyStudios.meta
+main_project/Assets/Bird/
+main_project/Assets/CGSoul/
+main_project/Assets/Ergin3d/
+main_project/Assets/Green_Worm/
+main_project/Assets/Bird.meta
+main_project/Assets/CGSoul.meta
+main_project/Assets/Ergin3d.meta
+main_project/Assets/Green_Worm.meta
