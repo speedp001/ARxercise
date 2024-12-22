@@ -38,7 +38,7 @@
 ## Demo Video
 
 > YouTube link
-> [https://youtu.be/ONddK9AoYs4?feature=shared](https://youtu.be/0OHvZdxElxo?si=tHFxtPfIOrJBwOSo)
+> 
 
 ## Contributor
 - **공나현 (Project Manager, UI/UX Designer  )**  
