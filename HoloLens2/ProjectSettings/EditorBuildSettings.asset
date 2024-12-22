@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 2485725e286449d4485daf5de3ccffbe
+  - enabled: 1
+    path: Assets/Scenes/BirdGame.unity
+    guid: 74c15382c5c70da428a15122c2e00ef8
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 44646a54385be7a49a68d6a943817199, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9b2187cf327a9c949a8aa281e06e21b4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0be15495a700de741bb74582a793fb62, type: 2}
