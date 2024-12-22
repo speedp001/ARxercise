@@ -21,12 +21,12 @@
 
 > | No. | Image | No. | Image |
 > |------|--------|------|--------|
-> | 1    | ![Image 1](https://i.imgur.com/Zlq5ifu.png) | 2    | ![Image 2](https://i.imgur.com/fm8ml5L.png) |
-> | 3    | ![Image 3](https://i.imgur.com/TF8tc6z.png) | 4    | ![Image 4](https://i.imgur.com/qLIkgAh.png) |
-> | 5    | ![Image 5](https://i.imgur.com/DVSz302.png) | 6    | ![Image 6](https://i.imgur.com/kEYHG9Z.png) |
-> | 7    | ![Image 7](https://i.imgur.com/FKNg1m1.png) | 8    | ![Image 8](https://i.imgur.com/pRhdjMA.png) |
-> | 9    | ![Image 9](https://i.imgur.com/vi50MGR.png) | 10   | ![Image 10](https://i.imgur.com/DCUByWJ.png) |
-> | 11   | ![Image 11](https://i.imgur.com/ZMpSBOZ.png) |      |  |
+> | 1    | ![Image 1](https://imgur.com/aH1TNYW) | 2    | ![Image 2](https://imgur.com/eLxJdNL) |
+> | 3    | ![Image 3](https://imgur.com/PiEnM2c) | 4    | ![Image 4](https://imgur.com/kurFwOt) |
+> | 5    | ![Image 5](https://imgur.com/6NJAOX8) | 6    | ![Image 6](https://imgur.com/ezqsNXK) |
+> | 7    | ![Image 7](https://imgur.com/f20I0kk) | 8    | ![Image 8](https://imgur.com/HAR9q9t) |
+> | 9    | ![Image 9](https://imgur.com/8kpibu0) | 10   | ![Image 10](https://imgur.com/szKVes3)|
+> | 11   | ![Image 11](https://imgur.com/9DZuniE)| 12   | ![Image 12](https://imgur.com/ZHR4O58)|
 
 ## AssetStore
 
@@ -44,19 +44,14 @@
 
 > YouTube link
 > [https://youtu.be/ONddK9AoYs4?feature=shared](https://youtu.be/0OHvZdxElxo?si=tHFxtPfIOrJBwOSo)
->
-> PDF 자료
-> [https://drive.google.com/file/d/1YLiWO9QMu75aqA1TJA5ot12cw2WxyeIl/view?usp=sharing](https://drive.google.com/file/d/1fpgGxX7vExJT4DAaq8C7FRRuJd_GlhMc/view?usp=drive_link)
 
 ## Contributor
-- **공나현**  
->  *Role*: Project Manager, UI/UX Designer  
+- **공나현(Project Manager, UI/UX Designer  )**  
 >  - 프로젝트 전체적인 개요 설계  
 >  - UI 및 음성 인터페이스 디자인  
 >  - 프로젝트 구조 설계 및 방향성 제시  
 
-- **이상윤**  
->  *Role*: Developer  
+- **이상윤(Developer)**  
 >  - 게임 개발 및 가상 환경 구축  
 >  - 사용자와의 인터랙션 구현  
 >  - 설계된 UI/UX를 기반으로 HoloLens 환경에서 게임화 작업
