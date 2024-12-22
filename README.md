@@ -21,7 +21,7 @@
 
 > | No. | Image | No. | Image |
 > |------|--------|------|--------|
-> | 1    | ![Image 1](https://imgur.com/aH1TNYW) | 2    | ![Image 2](https://imgur.com/eLxJdNL) |
+> | 1    | ![Image 1](https://i.imgur.com/aH1TNYW.jpg) | 2    | ![Image 2](https://imgur.com/eLxJdNL) |
 > | 3    | ![Image 3](https://imgur.com/PiEnM2c) | 4    | ![Image 4](https://imgur.com/kurFwOt) |
 > | 5    | ![Image 5](https://imgur.com/6NJAOX8) | 6    | ![Image 6](https://imgur.com/ezqsNXK) |
 > | 7    | ![Image 7](https://imgur.com/f20I0kk) | 8    | ![Image 8](https://imgur.com/HAR9q9t) |
