@@ -482,7 +482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startButton: {fileID: 1064026160}
-  newStartButton: {fileID: 0}
+  newStartButton: {fileID: 492898892}
   audioSource: {fileID: 36610415}
   startSound: {fileID: 8300000, guid: ae7b00ba26cfd514cb2fc11c05ecfc63, type: 3}
   clickSound: {fileID: 8300000, guid: ca6cd4825c19ce74bb0f8240ea01bf41, type: 3}
