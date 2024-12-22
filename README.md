@@ -50,13 +50,13 @@
 
 ## Contributor
 - **공나현**  
-  *Role*: Project Manager, UI/UX Designer  
-  - 프로젝트 전체적인 개요 설계  
-  - UI 및 음성 인터페이스 디자인  
-  - 프로젝트 구조 설계 및 방향성 제시  
+>  *Role*: Project Manager, UI/UX Designer  
+>  - 프로젝트 전체적인 개요 설계  
+>  - UI 및 음성 인터페이스 디자인  
+>  - 프로젝트 구조 설계 및 방향성 제시  
 
 - **이상윤**  
-  *Role*: Developer  
-  - 게임 개발 및 가상 환경 구축  
-  - 사용자와의 인터랙션 구현  
-  - 설계된 UI/UX를 기반으로 HoloLens 환경에서 게임화 작업
+>  *Role*: Developer  
+>  - 게임 개발 및 가상 환경 구축  
+>  - 사용자와의 인터랙션 구현  
+>  - 설계된 UI/UX를 기반으로 HoloLens 환경에서 게임화 작업
