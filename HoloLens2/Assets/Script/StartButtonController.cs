@@ -1,16 +1,17 @@
 using UnityEngine;
-using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.UI;
+using Microsoft.MixedReality.Toolkit.UI;
 
 public class StartButtonController : MonoBehaviour
 {
     public Button startButton;
-    public Button newStartButton;
+    public PressableButton newStartButton;
     public AudioSource audioSource;
     public AudioClip startSound;
     public AudioClip clickSound;
-    public GameObject canvas1; 
-    public GameObject canvas2; 
+    public GameObject canvas1;
+    public GameObject canvas2;
 
     private float delayTime = 5f;
 
@@ -26,8 +27,8 @@ public class StartButtonController : MonoBehaviour
         // 5초 후 버튼 전환
         StartCoroutine(SwitchButtonsAfterDelay());
 
-        // new_start_button의 클릭 이벤트 등록
-        newStartButton.onClick.AddListener(OnNewStartButtonClick);
+        // Button Pressed 이벤트 연결
+        newStartButton.ButtonPressed.AddListener(StartButtonPressed);
     }
 
     IEnumerator SwitchButtonsAfterDelay()
@@ -37,7 +38,7 @@ public class StartButtonController : MonoBehaviour
         newStartButton.gameObject.SetActive(true);
     }
 
-    public void OnNewStartButtonClick()
+    public void StartButtonPressed()
     {
         // 클릭 소리를 먼저 재생하고 UI 전환을 조금 지연
         if (audioSource && clickSound)

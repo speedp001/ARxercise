@@ -1,37 +1,24 @@
 using UnityEngine;
-using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.UI;
+using Microsoft.MixedReality.Toolkit.UI;
 
 public class NextButtonController : MonoBehaviour
 {
+    public Button nextButton;
+    public PressableButton newNextButton;
     public AudioSource audioSource;
-    public AudioClip exerciseDescriptionSound; // Exercise Description_1 음성
-    public AudioClip clickSound; // 클릭 소리
-    public Button explanationButton;
-    public GameObject canvas2; // 현재 Canvas2
-    public GameObject canvas3; // 전환될 Canvas3
+    public AudioClip exerciseDescriptionSound;
+    public AudioClip clickSound;
+    public GameObject canvas2;
+    public GameObject canvas3;
+
+    private float delayTime = 15f;
 
     private void OnEnable()
     {
-        // Canvas2가 활성화될 때 실행되는 코드
-        PlayExerciseDescriptionSound();
 
-        // 버튼 클릭 시 다음 Canvas로 전환하는 이벤트 등록
-        explanationButton.onClick.AddListener(OnExplanationButtonClick);
-
-        // 버튼을 5초 동안 비활성화 후 다시 활성화
-        explanationButton.interactable = false; // 버튼 비활성화
-        StartCoroutine(EnableButtonAfterDelay(15f)); // 15초 후 버튼 활성화
-    }
-
-    private void OnDisable()
-    {
-        // Canvas2가 비활성화될 때 이벤트 해제
-        explanationButton.onClick.RemoveListener(OnExplanationButtonClick);
-    }
-
-    private void PlayExerciseDescriptionSound()
-    {
+        // 설명 음성 재생
         if (audioSource != null && exerciseDescriptionSound != null)
         {
             audioSource.clip = exerciseDescriptionSound;
@@ -39,26 +26,56 @@ public class NextButtonController : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("AudioSource 또는 Exercise Description 음성이 설정되지 않았습니다.");
+            Debug.LogWarning("AudioSource 또는 ExerciseDescriptionSound가 설정되지 않았습니다.");
+        }
+
+        // 15초 후 버튼 전환
+        StartCoroutine(SwitchButtonsAfterDelay());
+
+        // PressableButton의 ButtonPressed 이벤트 연결
+        if (newNextButton != null)
+        {
+            newNextButton.ButtonPressed.AddListener(NextButtonPressed);
+        }
+        else
+        {
+            Debug.LogError("newNextButton이 설정되지 않았습니다.");
         }
     }
 
-    private void OnExplanationButtonClick()
+    IEnumerator SwitchButtonsAfterDelay()
+    {
+        yield return new WaitForSeconds(delayTime);
+
+        if (nextButton != null)
+        {
+            nextButton.gameObject.SetActive(false);
+        }
+        if (newNextButton != null)
+        {
+            newNextButton.gameObject.SetActive(true);
+        }
+    }
+
+    public void NextButtonPressed()
     {
         // 클릭 소리 재생
         if (audioSource != null && clickSound != null)
         {
             audioSource.PlayOneShot(clickSound);
         }
+        else
+        {
+            Debug.LogWarning("AudioSource 또는 ClickSound가 설정되지 않았습니다.");
+        }
 
-        // Canvas2 비활성화하고 Canvas3 활성화
+        // Canvas 전환
         StartCoroutine(TransitionToCanvas3());
     }
 
     IEnumerator TransitionToCanvas3()
     {
-        // 전환 전에 잠시 대기 (필요 시)
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1);
 
         if (canvas2 != null)
         {
@@ -69,11 +86,5 @@ public class NextButtonController : MonoBehaviour
         {
             canvas3.SetActive(true);
         }
-    }
-
-    IEnumerator EnableButtonAfterDelay(float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        explanationButton.interactable = true; // 버튼 활성화
     }
 }
