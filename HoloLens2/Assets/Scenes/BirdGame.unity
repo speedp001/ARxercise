@@ -857,7 +857,7 @@ MonoBehaviour:
   effectDuration: 4
   whooshAudio: {fileID: 847530808}
   introAudio: {fileID: 847530809}
-  speedThreshold: 3
+  speedThreshold: 1
 --- !u!82 &847530808
 AudioSource:
   m_ObjectHideFlags: 0
