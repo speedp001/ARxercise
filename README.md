@@ -39,8 +39,9 @@
 > | 11  | ![Image 11](https://i.imgur.com/6WJqwE1.jpeg) |
 > | 12  | ![Image 12](https://i.imgur.com/b9pxcA6.jpeg) |
 > | 13  | ![Image 10](https://i.imgur.com/921CKbB.jpeg) |
-> | 14  | ![Image 11](https://i.imgur.com/6WJqwE1.jpeg) |
-> | 15  | ![Image 12](https://i.imgur.com/b9pxcA6.jpeg) |
+> | 14  | ![Image 11](https://i.imgur.com/x4nmhEG.jpeg) |
+> | 15  | ![Image 12](https://i.imgur.com/2Wjwx2R.jpeg) |
+> | 16  | ![Image 12](https://i.imgur.com/JOmyYvB.jpeg) |
 ---
 ## Release Note
 
