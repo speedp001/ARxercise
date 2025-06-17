@@ -26,7 +26,7 @@
 
 > | No. | Image |
 > |-----|-------|
-> | 1   | ![Image 1]([Imgur](https://imgur.com/UldGVsY)) |
+> | 1   | ![Image 1]([img]https://i.imgur.com/UldGVsY.jpeg[/img]) |
 > | 2   | ![Image 2]([https://i.imgur.com/eLxJdNL.jpg](https://imgur.com/K8sUcWo)) |
 > | 3   | ![Image 3](https://i.imgur.com/PiEnM2c.jpg) |
 > | 4   | ![Image 4](https://i.imgur.com/kurFwOt.jpg) |
