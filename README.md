@@ -1,3 +1,19 @@
+### ![HCII2025 Logo](https://i.imgur.com/vvvXLWf.png)
+
+#  HCII 2025 논문 출간
+
+> 본 프로젝트는 2025년 **HCI International (HCII 2025)** 컨퍼런스에 채택되어,  
+> Springer의 **"Virtual, Augmented and Mixed Reality"** 트랙에서 정식 출간되었습니다.  
+> 컨퍼런스는 2025년 6월 22–27일, 스웨덴 예테보리 Gothia Towers에서 개최되었습니다.
+
+- **HCII 2025 공식 웹사이트**: [https://2025.hci.international](https://2025.hci.international)
+- **논문 시리즈 (LNCS)**: [Springer HCI Proceedings](https://link.springer.com/series/16277)
+- **논문 링크**: [https://link.springer.com/chapter/10.1007/978-3-031-93163-5_9](https://link.springer.com/chapter/10.1007/978-3-031-93163-5_9)
+
+> 논문 제목: *AR-based Multi-sensory Human Interaction in Rehabilitation: Enhancing User Experience in Exercise*
+
+---
+
 # 시니어 재활운동 서비스
 
 > **"시니어 재활 운동 서비스"는 MS HoloLens 2를 활용한 증강현실 기반 재활운동 플랫폼으로, 재활 운동에서 사용자가 올바른 자세를 취하도록 유도하는 게임입니다. 본 프로젝트는 대각선 팔 올리기와 같은 재활 운동을 효과적으로 수행하도록 도우며, 3D 인터랙션과 음성 안내를 통해 몰입감 높은 사용자 경험을 제공합니다. 이 플랫폼은 시니어의 근력 증진과 재활 운동을 보다 쉽고 효율적으로 지원합니다.**
