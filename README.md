@@ -1,4 +1,4 @@
-### ![HCII2025 Logo](https://i.imgur.com/vvvXLWf.png)
+### ![HCII2025 Logo](https://i.imgur.com/nUvXqli.png)
 
 #  HCII 2025 논문 출간
 
