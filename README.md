@@ -26,8 +26,8 @@
 
 > | No. | Image |
 > |-----|-------|
-> | 1   | ![Image 1](https://i.imgur.com/aH1TNYW.jpg) |
-> | 2   | ![Image 2](https://i.imgur.com/eLxJdNL.jpg) |
+> | 1   | ![Image 1]([https://i.imgur.com/aH1TNYW.jpg](https://imgur.com/UldGVsY)) |
+> | 2   | ![Image 2]([https://i.imgur.com/eLxJdNL.jpg](https://imgur.com/K8sUcWo)) |
 > | 3   | ![Image 3](https://i.imgur.com/PiEnM2c.jpg) |
 > | 4   | ![Image 4](https://i.imgur.com/kurFwOt.jpg) |
 > | 5   | ![Image 5](https://i.imgur.com/6NJAOX8.jpg) |
