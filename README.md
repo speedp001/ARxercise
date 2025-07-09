@@ -53,7 +53,7 @@
 > | 9   | ![Image 9](https://i.imgur.com/MNstfkA.jpeg) |
 > | 10  | ![Image 10](https://i.imgur.com/uJb5jXa.jpeg) |
 > | 11  | ![Image 11](https://i.imgur.com/6WJqwE1.jpeg) |
-> | 12  | ![Image 12](https://i.imgur.com/b9pxcA6.jpeg) |
+> | 12  | ![Image 12](https://i.imgur.com/s6upZ4k.png) |
 > | 13  | ![Image 10](https://i.imgur.com/921CKbB.jpeg) |
 > | 14  | ![Image 11](https://i.imgur.com/x4nmhEG.jpeg) |
 > | 15  | ![Image 12](https://i.imgur.com/2Wjwx2R.jpeg) |
