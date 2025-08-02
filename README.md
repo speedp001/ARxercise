@@ -107,12 +107,11 @@
 ## Demo Video
 
 > YouTube Link  
-[https://youtu.be/okim1H57gqA](Demo video link)
+[Demo video link](https://youtu.be/okim1H57gqA)
 
 ---
 
 ## Presentation Video
-> YouTube Link
-[https://youtu.be/8MrM2ddlNlY](Presentation video link)
 
----
+> YouTube Link  
+[Presentation video link](https://youtu.be/8MrM2ddlNlY)
